@@ -6,9 +6,5 @@
     "attributes": [{
       "trait_type": "ACCESSORY", 
       "value": "Birthday Hat"
-    },
-    {
-      "trait_type": "TYPE", 
-      "value": "Yellow"
     }]
   }
