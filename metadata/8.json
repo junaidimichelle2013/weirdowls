@@ -1,0 +1,14 @@
+{
+    "description": "Weird Owls live in ERC-721 Token Standard.", 
+    "external_url": "https://github.com/junaidimichelle2013/weirdowls/blob/main/assets/(8).png", 
+    "image": "https://github.com/junaidimichelle2013/weirdowls/raw/main/assets/(8).png", 
+    "name": "#8",
+    "attributes": [{
+      "trait_type": "ACCESSORY", 
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "TYPE", 
+      "value": "Yellow"
+    }]
+  }
